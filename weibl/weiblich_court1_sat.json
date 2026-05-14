@@ -1,7 +1,7 @@
 [
   {
-    "start": "10:00",
-    "durationMin": 74,
+    "start": "08:00",
+    "durationMin": 164,
     "matchNo": 1,
     "team1": "Dessau Volleys",
     "team2": "ASV Dachau",
@@ -9,7 +9,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/a65b4f0b-7010-418c-9f59-cf640ef22977"
   },
   {
-    "start": "11:15",
+    "start": "10:45",
     "durationMin": 74,
     "matchNo": 5,
     "team1": "Heidelberger TV 1",
@@ -18,7 +18,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/4075e61c-29eb-4154-b244-be782d5e9569"
   },
   {
-    "start": "12:30",
+    "start": "12:00",
     "durationMin": 74,
     "matchNo": 9,
     "team1": "Dessau Volleys",

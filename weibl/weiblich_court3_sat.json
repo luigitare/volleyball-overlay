@@ -1,7 +1,7 @@
 [
   {
-    "start": "10:00",
-    "durationMin": 74,
+    "start": "08:00",
+    "durationMin": 164,
     "matchNo": 3,
     "team1": "Post SV Dresden e. V. 1.",
     "team2": "RSV Borken",
@@ -9,7 +9,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/4045511c-402d-4302-9b0f-f41511d8b28c"
   },
   {
-    "start": "11:15",
+    "start": "10:45",
     "durationMin": 74,
     "matchNo": 7,
     "team1": "SCU Emlichheim",
@@ -18,7 +18,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/f9d1842f-9aab-4b68-8a85-a0f72cbcf72c"
   },
   {
-    "start": "12:30",
+    "start": "12:00",
     "durationMin": 74,
     "matchNo": 11,
     "team1": "Post SV Dresden e. V. 1.",

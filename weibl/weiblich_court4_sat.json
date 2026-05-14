@@ -1,7 +1,7 @@
 [
   {
-    "start": "10:00",
-    "durationMin": 74,
+    "start": "08:00",
+    "durationMin": 164,
     "matchNo": 4,
     "team1": "Hamburg",
     "team2": "Lohhof",
@@ -9,7 +9,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/08054635-422d-4402-8379-4b1f74575f3d"
   },
   {
-    "start": "11:15",
+    "start": "10:45",
     "durationMin": 74,
     "matchNo": 8,
     "team1": "VC Wiesbaden",
@@ -18,7 +18,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/fdbe7eda-a4c7-4453-8c7c-670be7102294"
   },
   {
-    "start": "12:30",
+    "start": "12:00",
     "durationMin": 74,
     "matchNo": 12,
     "team1": "RSV Borken",

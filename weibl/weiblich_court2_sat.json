@@ -1,7 +1,7 @@
 [
   {
-    "start": "10:00",
-    "durationMin": 74,
+    "start": "08:00",
+    "durationMin": 164,
     "matchNo": 2,
     "team1": "TSV Bayer 04 Leverkusen",
     "team2": "TV Waldgirmes",
@@ -9,7 +9,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/d197fd67-6df9-4df4-901c-8eb07dea4890"
   },
   {
-    "start": "11:15",
+    "start": "10:45",
     "durationMin": 74,
     "matchNo": 6,
     "team1": "Schwaig",
@@ -18,7 +18,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/eb751261-f658-4695-91fe-1ca3fd2570a2"
   },
   {
-    "start": "12:30",
+    "start": "12:00",
     "durationMin": 74,
     "matchNo": 10,
     "team1": "ASV Dachau",
