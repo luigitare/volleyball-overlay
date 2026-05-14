@@ -1,0 +1,74 @@
+[
+  {
+    "start": "10:00",
+    "durationMin": 74,
+    "matchNo": 1,
+    "team1": "Dessau Volleys",
+    "team2": "ASV Dachau",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/a65b4f0b-7010-418c-9f59-cf640ef22977"
+  },
+  {
+    "start": "11:15",
+    "durationMin": 74,
+    "matchNo": 5,
+    "team1": "Heidelberger TV 1",
+    "team2": "SWE Schwarz",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4075e61c-29eb-4154-b244-be782d5e9569"
+  },
+  {
+    "start": "12:30",
+    "durationMin": 74,
+    "matchNo": 9,
+    "team1": "Dessau Volleys",
+    "team2": "TV Waldgirmes",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/402f5075-8096-48f0-91a1-8c2f90bc272f"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 13,
+    "team1": "Heidelberger TV 1",
+    "team2": "Schwerin I",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/191da579-faaa-44da-a7f1-d066dad474fc"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 17,
+    "team1": "Dessau Volleys",
+    "team2": "TSV Bayer 04 Leverkusen",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/110ecc50-654b-49db-84b3-72a4b7c08a78"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 21,
+    "team1": "Heidelberger TV 1",
+    "team2": "Schwaig",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/b1a22a98-6789-48ee-bef4-c3ea2267dfc3"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 25,
+    "team1": "#2 Vorrunde Gruppe A1",
+    "team2": "#3 Vorrunde Gruppe B1",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/32c67cdc-d150-4a2e-8d52-fac7e25bda71"
+  },
+  {
+    "start": "18:45",
+    "durationMin": 74,
+    "matchNo": 29,
+    "team1": "#4 Vorrunde Gruppe A1",
+    "team2": "#4 Vorrunde Gruppe A2",
+    "label": "Platz 13-16",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/813a4e0f-d210-4947-9d20-f01bc357885f"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "start": "10:00",
+    "durationMin": 74,
+    "matchNo": 4,
+    "team1": "Hamburg",
+    "team2": "Lohhof",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/08054635-422d-4402-8379-4b1f74575f3d"
+  },
+  {
+    "start": "11:15",
+    "durationMin": 74,
+    "matchNo": 8,
+    "team1": "VC Wiesbaden",
+    "team2": "TSG Wiesloch 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/fdbe7eda-a4c7-4453-8c7c-670be7102294"
+  },
+  {
+    "start": "12:30",
+    "durationMin": 74,
+    "matchNo": 12,
+    "team1": "RSV Borken",
+    "team2": "Hamburg",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4bbc05f9-f07b-488c-80a0-c621cb875a24"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 16,
+    "team1": "SC Potsdam I",
+    "team2": "VC Wiesbaden",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/656db231-3c3f-4121-a568-b048ae5bdff2"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 20,
+    "team1": "RSV Borken",
+    "team2": "Lohhof",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/10fe9367-e32a-4869-92f0-8150ab9a6fd6"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 24,
+    "team1": "SC Potsdam I",
+    "team2": "TSG Wiesloch 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/ab1c7164-adac-45c0-9380-390c7e473842"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 28,
+    "team1": "#3 Vorrunde Gruppe A2",
+    "team2": "#2 Vorrunde Gruppe B2",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/cbc683a7-4134-4c24-9e70-2e44bb58d76a"
+  }
+]

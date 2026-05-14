@@ -1,0 +1,65 @@
+[
+  {
+    "start": "08:00",
+    "durationMin": 164,
+    "matchNo": 4,
+    "team1": "Schwerin I",
+    "team2": "Zirndorf",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/7ff1cd3b-3176-46a7-bed2-ae1edd616ff5"
+  },
+  {
+    "start": "10:45",
+    "durationMin": 74,
+    "matchNo": 8,
+    "team1": "Wiesbaden",
+    "team2": "VfB Friedrichshafen 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/6b9bf12c-e801-44df-9d63-d8a0ed0ee565"
+  },
+  {
+    "start": "12:00",
+    "durationMin": 74,
+    "matchNo": 12,
+    "team1": "VV Humann Essen",
+    "team2": "Schwerin I",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/5c6b25bd-8f01-46b6-b83f-ffbfaab2341d"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 16,
+    "team1": "SCC I",
+    "team2": "Wiesbaden",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/45fb7e9a-59f2-48ab-be82-b6ade767bb70"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 20,
+    "team1": "VV Humann Essen",
+    "team2": "Zirndorf",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/8c9510c9-f314-44fb-9778-7a0310794331"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 24,
+    "team1": "SCC I",
+    "team2": "VfB Friedrichshafen 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/3a67e787-f1c3-45bf-84dd-ef7c19b445dd"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 28,
+    "team1": "#3 Vorrunde Gruppe A2",
+    "team2": "#2 Vorrunde Gruppe B2",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/30eb2e29-9e75-4231-81b4-6968dafd0983"
+  }
+]

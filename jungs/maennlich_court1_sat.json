@@ -1,0 +1,74 @@
+[
+  {
+    "start": "08:00",
+    "durationMin": 164,
+    "matchNo": 1,
+    "team1": "BV Vorwärts",
+    "team2": "ASC 46 Göttingen",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/7a7e54c4-f4ba-4969-9dc5-ef4e5d6c41e2"
+  },
+  {
+    "start": "10:45",
+    "durationMin": 74,
+    "matchNo": 5,
+    "team1": "BADEN VOLLEYS 1",
+    "team2": "VC Dresden I",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/8d5bd6b3-879a-42e7-b5ae-1514fbbcbde2"
+  },
+  {
+    "start": "12:00",
+    "durationMin": 74,
+    "matchNo": 9,
+    "team1": "BV Vorwärts",
+    "team2": "TuS Kriftel",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/2f261fc3-e5c9-42ca-942f-74d7c0808fb7"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 13,
+    "team1": "BADEN VOLLEYS 1",
+    "team2": "ASV Dachau",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/a4d0dc0d-872c-48a3-9161-f0d12a5a52a2"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 17,
+    "team1": "BV Vorwärts",
+    "team2": "SolingenVolleys",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/d913e47a-7725-4f67-9527-b9f6dfad51aa"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 21,
+    "team1": "BADEN VOLLEYS 1",
+    "team2": "Marktredwitz",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/c1b6ec15-9eef-4306-87ac-8c206152c3a0"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 25,
+    "team1": "#2 Vorrunde Gruppe A1",
+    "team2": "#3 Vorrunde Gruppe B1",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/75cdb144-a3ac-412e-b58d-c0f5370ebd70"
+  },
+  {
+    "start": "18:45",
+    "durationMin": 74,
+    "matchNo": 29,
+    "team1": "#4 Vorrunde Gruppe A1",
+    "team2": "#4 Vorrunde Gruppe A2",
+    "label": "Platz 13-16",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/d1cbc3d6-e615-4300-a0c0-07445b5a3272"
+  }
+]

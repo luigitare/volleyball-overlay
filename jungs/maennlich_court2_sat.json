@@ -1,0 +1,65 @@
+[
+  {
+    "start": "08:00",
+    "durationMin": 164,
+    "matchNo": 2,
+    "team1": "SolingenVolleys",
+    "team2": "TuS Kriftel",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/09616013-f7ee-430b-a38e-c334e3ab7f09"
+  },
+  {
+    "start": "10:45",
+    "durationMin": 74,
+    "matchNo": 6,
+    "team1": "Marktredwitz",
+    "team2": "ASV Dachau",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/237250d1-20a4-4293-9f6b-da29f35e6bcb"
+  },
+  {
+    "start": "12:00",
+    "durationMin": 74,
+    "matchNo": 10,
+    "team1": "ASC 46 Göttingen",
+    "team2": "SolingenVolleys",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/d15a0e50-a4e4-457b-a800-fd3585afba38"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 14,
+    "team1": "VC Dresden I",
+    "team2": "Marktredwitz",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/a97b9461-703f-48f0-93ac-1752cf5a7921"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 18,
+    "team1": "ASC 46 Göttingen",
+    "team2": "TuS Kriftel",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/95d7dbf1-7d45-4b51-8bdc-2a617783c63b"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 22,
+    "team1": "VC Dresden I",
+    "team2": "ASV Dachau",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/5945289d-0817-4a13-a055-cb80232f3104"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 26,
+    "team1": "#2 Vorrunde Gruppe A2",
+    "team2": "#3 Vorrunde Gruppe B2",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/6faf1fb5-b2c4-4059-a62d-de3531182ad2"
+  }
+]

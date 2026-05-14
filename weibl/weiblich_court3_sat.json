@@ -1,0 +1,74 @@
+[
+  {
+    "start": "10:00",
+    "durationMin": 74,
+    "matchNo": 3,
+    "team1": "Post SV Dresden e. V. 1.",
+    "team2": "RSV Borken",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4045511c-402d-4302-9b0f-f41511d8b28c"
+  },
+  {
+    "start": "11:15",
+    "durationMin": 74,
+    "matchNo": 7,
+    "team1": "SCU Emlichheim",
+    "team2": "SC Potsdam I",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/f9d1842f-9aab-4b68-8a85-a0f72cbcf72c"
+  },
+  {
+    "start": "12:30",
+    "durationMin": 74,
+    "matchNo": 11,
+    "team1": "Post SV Dresden e. V. 1.",
+    "team2": "Lohhof",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/0ee705b2-2842-4dbf-b920-ec18f46d6b9d"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 15,
+    "team1": "SCU Emlichheim",
+    "team2": "TSG Wiesloch 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4bd22d1f-d87f-4df2-b6bd-7850c6c50a3b"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 19,
+    "team1": "Post SV Dresden e. V. 1.",
+    "team2": "Hamburg",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/e3e40d29-acc5-4cef-971c-f841f5fb2ef9"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 23,
+    "team1": "SCU Emlichheim",
+    "team2": "VC Wiesbaden",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/5341ae6b-3c6c-4bc4-a00b-5d0ff11cf995"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 27,
+    "team1": "#3 Vorrunde Gruppe A1",
+    "team2": "#2 Vorrunde Gruppe B1",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/2b32fde4-d972-41c7-a51d-93458a003826"
+  },
+  {
+    "start": "18:45",
+    "durationMin": 74,
+    "matchNo": 30,
+    "team1": "#4 Vorrunde Gruppe B1",
+    "team2": "#4 Vorrunde Gruppe B2",
+    "label": "Platz 13-16",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/50043fe2-83b7-4695-bb64-6348d82995be"
+  }
+]

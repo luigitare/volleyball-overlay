@@ -1,0 +1,38 @@
+[
+  {
+    "start": "09:00",
+    "durationMin": 74,
+    "matchNo": 32,
+    "team1": "#1 Vorrunde Gruppe A2",
+    "team2": "Sieger Spiel 27",
+    "label": "Viertelfinale",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/0643ea74-0b61-44c0-9970-3c0cca4a009c"
+  },
+  {
+    "start": "10:15",
+    "durationMin": 74,
+    "matchNo": 36,
+    "team1": "Verlierer Spiel 27",
+    "team2": "Verlierer Spiel 28",
+    "label": "Platz 9-12",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/c44c206d-ce16-4bcb-a527-18becf55474e"
+  },
+  {
+    "start": "11:30",
+    "durationMin": 74,
+    "matchNo": 40,
+    "team1": "Sieger Spiel 33",
+    "team2": "Sieger Spiel 34",
+    "label": "Halbfinale",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4a68c2cb-c2c4-4451-a5a5-8ca7edb37535"
+  },
+  {
+    "start": "12:45",
+    "durationMin": 74,
+    "matchNo": 44,
+    "team1": "Verlierer Spiel 35",
+    "team2": "Verlierer Spiel 36",
+    "label": "Spiel um Platz 11",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/4b36bab6-cfb1-47fe-959c-b30fb60d1df1"
+  }
+]

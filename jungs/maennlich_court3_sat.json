@@ -1,0 +1,74 @@
+[
+  {
+    "start": "08:00",
+    "durationMin": 164,
+    "matchNo": 3,
+    "team1": "LE Volleys I",
+    "team2": "VV Humann Essen",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/3dc0d3ec-9ea9-4f4c-ad0f-91526b7fce1a"
+  },
+  {
+    "start": "10:45",
+    "durationMin": 74,
+    "matchNo": 7,
+    "team1": "SVG Lüneburg",
+    "team2": "SCC I",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/bb8b069f-8b34-4563-8f6d-ad6b94e30096"
+  },
+  {
+    "start": "12:00",
+    "durationMin": 74,
+    "matchNo": 11,
+    "team1": "LE Volleys I",
+    "team2": "Zirndorf",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/5f18fe25-a9f0-4a46-9a1a-c9e3d9822813"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 15,
+    "team1": "SVG Lüneburg",
+    "team2": "VfB Friedrichshafen 1",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/ad1b3350-8644-41a1-ad6c-b443a4a0013b"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 19,
+    "team1": "LE Volleys I",
+    "team2": "Schwerin I",
+    "label": "Vorrunde Gruppe B1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/02b72ea4-d983-4349-bb2b-efe4b1a1d701"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 23,
+    "team1": "SVG Lüneburg",
+    "team2": "Wiesbaden",
+    "label": "Vorrunde Gruppe B2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/475e74c1-f803-4715-b3e8-ce71e37560fa"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 27,
+    "team1": "#3 Vorrunde Gruppe A1",
+    "team2": "#2 Vorrunde Gruppe B1",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/da2b77d6-54ff-46bf-a09b-db22810f178d"
+  },
+  {
+    "start": "18:45",
+    "durationMin": 74,
+    "matchNo": 30,
+    "team1": "#4 Vorrunde Gruppe B1",
+    "team2": "#4 Vorrunde Gruppe B2",
+    "label": "Platz 13-16",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/55ae0259-23b5-49d7-bc6e-96dfa959347e"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "start": "10:00",
+    "durationMin": 74,
+    "matchNo": 2,
+    "team1": "TSV Bayer 04 Leverkusen",
+    "team2": "TV Waldgirmes",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/d197fd67-6df9-4df4-901c-8eb07dea4890"
+  },
+  {
+    "start": "11:15",
+    "durationMin": 74,
+    "matchNo": 6,
+    "team1": "Schwaig",
+    "team2": "Schwerin I",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/eb751261-f658-4695-91fe-1ca3fd2570a2"
+  },
+  {
+    "start": "12:30",
+    "durationMin": 74,
+    "matchNo": 10,
+    "team1": "ASV Dachau",
+    "team2": "TSV Bayer 04 Leverkusen",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/fd1652ad-288e-43a7-a1db-56b2c4e89b52"
+  },
+  {
+    "start": "13:45",
+    "durationMin": 74,
+    "matchNo": 14,
+    "team1": "SWE Schwarz",
+    "team2": "Schwaig",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/f8bb11ed-c1b7-4bb4-93e3-c32b7859df31"
+  },
+  {
+    "start": "15:00",
+    "durationMin": 74,
+    "matchNo": 18,
+    "team1": "ASV Dachau",
+    "team2": "TV Waldgirmes",
+    "label": "Vorrunde Gruppe A1",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/17d7f011-73c5-416d-9639-18be4a2a1f8d"
+  },
+  {
+    "start": "16:15",
+    "durationMin": 74,
+    "matchNo": 22,
+    "team1": "SWE Schwarz",
+    "team2": "Schwerin I",
+    "label": "Vorrunde Gruppe A2",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/5209e4e9-e723-4fdf-9eb4-ee14f5e72df5"
+  },
+  {
+    "start": "17:30",
+    "durationMin": 74,
+    "matchNo": 26,
+    "team1": "#2 Vorrunde Gruppe A2",
+    "team2": "#3 Vorrunde Gruppe B2",
+    "label": "Zwischenrunde",
+    "scoreUrl": "https://dvv.sams-ticker.de/stream/7201b7bb-0b33-4ff5-af81-b6a891b227b9"
+  }
+]
