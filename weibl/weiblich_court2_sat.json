@@ -28,7 +28,7 @@
   },
   {
     "start": "13:45",
-    "durationMin": 74,
+    "durationMin": 60,
     "matchNo": 14,
     "team1": "SWE Schwarz",
     "team2": "Schwaig",
@@ -36,7 +36,7 @@
     "scoreUrl": "https://dvv.sams-ticker.de/stream/f8bb11ed-c1b7-4bb4-93e3-c32b7859df31"
   },
   {
-    "start": "15:00",
+    "start": "14:45",
     "durationMin": 74,
     "matchNo": 18,
     "team1": "ASV Dachau",
